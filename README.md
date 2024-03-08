@@ -11,7 +11,7 @@ Concerns:
 - Low wait time tolerance of 30% of customer base
 ## Methods
 We completed the simulation code using Python’s SimPy and Random libraries, among others. We defined functions to recreate the customer experience at the coffee shop, represented by the [event graph](https://github.com/bscov/Group-3-Term-Project/blob/main/Group3_EventGraph.png). 
-We divided the simulation into three dayparts (morning, afternoon, and evening) to represent fluctuations in customer arrival rate, average check, and wait time tolerance throughout the day. Additionally, we ran each daypart simulation three times to simulate service with one, two, and three baristas on shift. Python code and output are included in the [code folder](link). 
+We divided the simulation into three dayparts (morning, afternoon, and evening) to represent fluctuations in customer arrival rate, average check, and wait time tolerance throughout the day. Additionally, we ran each daypart simulation three times to simulate service with one, two, and three baristas on shift. Python code and output are included in the [code folder](https://github.com/bscov/Group-3-Term-Project/tree/main/Code). 
 ## Results
 The results from the three simulations are included in the [morning shift](https://github.com/bscov/Group-3-Term-Project/blob/main/Results/Group3_MorningShiftResults.png), [afternoon shift](https://github.com/bscov/Group-3-Term-Project/blob/main/Results/Group3_AfternoonShiftResults.png), and [evening shift](https://github.com/bscov/Group-3-Term-Project/blob/main/Results/Group3_EveningShiftResults.png) tables. The simulation with the best profit outcome was a morning shift staffed by three baristas. 
 ## Management Recommendations
